@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Linxup is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://linxup.com/
+Linxup provides GPS fleet tracking, dash cam solutions, and asset management tools for businesses. Their platform offers real‑time vehicle location, driver safety monitoring, equipment tracking, and compliance reporting, helping companies improve operational efficiency and reduce costs. The service includes a web portal and mobile apps for fleet managers to activate devices, view dashboards, and integrate with third‑party systems.
+
+**Areas:** GPS · Fleet Tracking · Dash Cams · Asset Management · Transportation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://linxup.com/)
+- [Pricing](https://www.linxup.com/pricing)
+- [Support](https://www.linxup.com/support)
+- [Blog](https://www.linxup.com/blog)
+- [Terms of service](https://www.linxup.com/about/terms)
+- [Privacy policy](https://www.linxup.com/about/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/linxup/](https://apis.io/providers/linxup/).
